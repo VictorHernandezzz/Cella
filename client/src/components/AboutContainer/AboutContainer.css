@@ -1,0 +1,96 @@
+.aboutBody{
+    background-color:white;
+   
+}
+h2{
+    color:rgb(4, 106, 179);
+
+}
+
+.aboutHead{
+
+    text-align:center;
+    color:rgb(92, 92, 92);
+    font-family: "Montserrat", sans-serif;
+    font-size:40px;
+    letter-spacing: 58px;
+    margin-bottom: 44px;
+    margin-top: 30px;
+}
+
+.aboutPicLeft{
+    width: 40%;
+    float: left;
+    margin-right:3%;
+}
+
+.aboutPicRight{
+    width: 40%;
+    float: right;
+    margin-left:3%;
+}
+
+.rtText{
+margin-right: 7%;
+margin-top:4%;
+}
+
+.ltText{
+margin-left:7%;
+margin-top:4%;
+
+}
+
+.textBox{
+    font-family: "Montserrat", sans-serif;
+    color:black
+}
+
+.employee{
+   margin-bottom:45px; 
+}
+
+.topEmployee{
+    margin-top:20px;
+}
+
+.icon{
+margin-left:7%;
+margin-right: 1%;
+    width: 3%;
+}
+
+.icon1{
+    margin-left:-1%;
+    margin-right: 1%;
+        width: 3%;
+}
+
+.iconHold{
+    margin-top:2%;
+}
+
+.jobText{
+    font-size: 12px;
+    margin-top: -5px;
+    margin-bottom: 32px;  
+    color:#656464
+}
+
+.jobContainer{
+    /* background-color:rgba(11, 86, 224, 0.39); */
+height:100%
+}
+
+a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    color: #808080;  
+}
+
+.rightText{
+
+    float:right;
+}
+
